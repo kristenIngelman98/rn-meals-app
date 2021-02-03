@@ -1,6 +1,5 @@
 import React from 'react';
 import { View, Text, StyleSheet, Button } from 'react-native';
-import CategoryMealScreen from './CategoryMealScreen';
 
 const CategoriesScreen = props => {
     console.log(props);
