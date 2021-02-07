@@ -17,10 +17,11 @@ class Meal {
         this.id = id;
         this.categoryIds = categoryIds;
         this.title = title;
+        this.affordability = affordability;
         this.imageUrl = imageUrl;
         this.duration = duration;
         this.complexity = complexity;
-        this.affordabiligy = affordability;
+        
         
     
         this.ingredients = ingredients;
